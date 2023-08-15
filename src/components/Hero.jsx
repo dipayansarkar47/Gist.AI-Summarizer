@@ -5,7 +5,7 @@ const Hero = () => {
     <header className='w-full flex flex-col justify-center items-center'>
       <nav className='flex justify-between items-center flex-row w-full mb-10 pt-3'>
           <img src={logo} alt="gist" className='w-28 object-contain'/>
-          <button type='button' className='black_btn' onClick={()=>window.open('https://github.com/dipayansarkar47/')}>
+          <button type='button' className='black_btn' onClick={()=>window.open('https://github.com/dipayansarkar47/Gist.AI-Summarizer')}>
             Github
           </button>
       </nav>
